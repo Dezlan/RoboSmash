@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PlayerStuff\Resources\ZoomSens.cs">
+    <Files>
+      <File FileName="Assets\PlayerStuff\Resources\baseFOV.js" Line="4" Column="4" />
+      <File FileName="Assets\NetworkCharacter.cs" Line="14" Column="32" />
+      <File FileName="Assets\PlayerStuff\Resources\ZoomSens.cs" Line="12" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
