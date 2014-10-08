@@ -66,6 +66,7 @@ public class PlayerMovement : MonoBehaviour {
 			// We are looking DOWN
 			AimAngle = -myCamera.transform.rotation.eulerAngles.x;
 		}
+		//reset Aiming angle 360 degrees minus the rotation of the euler
 		else {
 			AimAngle = 360 - myCamera.transform.rotation.eulerAngles.x;
 		}
